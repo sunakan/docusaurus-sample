@@ -72,3 +72,9 @@ hogehoge
 
 12 directories, 37 files
 ```
+
+## ビルド
+
+```
+$ yarn run build
+```
